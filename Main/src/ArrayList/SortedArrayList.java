@@ -11,7 +11,7 @@ public class SortedArrayList {
         ArrayList<String> sample =
                 new ArrayList<String>(Arrays.asList("man", "salam", "modi"));
 
-        
+
         //sorted alphabetically bu Collections.sort()
         Collections.sort(sample);
 
