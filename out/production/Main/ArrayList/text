@@ -1,0 +1,4 @@
+#permit all element + Null
+
+#use Collections class (No Collection Interface) method .nCopies
+#for make arrayList with count and value
