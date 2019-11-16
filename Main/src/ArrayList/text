@@ -5,3 +5,8 @@
 
 #Enumeration -> use inside of Vector and legacy Code
 
+#sort
+    -> Collections.sort() = sort alphabetically and for number  small---->big
+    -> Collections.reverseOrder()
+    -> Comparable -> use one logic for sort
+    -> Comparator -> use some login
